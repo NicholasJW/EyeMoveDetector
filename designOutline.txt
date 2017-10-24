@@ -1,0 +1,49 @@
+Project Design Outline
+
+
+Classes
+
+
+//Kevin
+Parser
+    map(timestamp, EyeData)
+    timestamp
+
+
+EyeData
+    rightGazePosition
+    leftGazePosition
+    rightPupil
+    leftPupil
+    rightVelocity
+    leftVelocity
+    rightDimension
+    leftDimension
+    
+GazePosition
+    Type def (Double) xGaze
+    Type def (Double) yGaze
+
+
+    
+Pupil
+Velocity
+Dimension
+
+
+//Tanner
+SaccadeDetector    
+
+
+Saccade
+    Type
+    peakVelocityTimestamp
+    onsetTimestamp
+    completionTimestamp
+    Amplitude
+    peakVelocity
+    Duration
+
+
+//Nick
+GUI

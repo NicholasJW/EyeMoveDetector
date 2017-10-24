@@ -1,0 +1,10 @@
+THINGS TO DO
+
+Graphing. -Nick
+Finalize Makefile.
+Write up. -All?
+Normalize data. -Tanner
+Determine Acurracy. -Tanner
+Testing. -All
+
+Make it all work together.
